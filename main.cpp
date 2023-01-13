@@ -13,7 +13,7 @@ int main(){
             std::cout << "counter:" <<count<< std::endl;
         }
         else{
-            count=0;
+            count=1;
         }
 
     }
